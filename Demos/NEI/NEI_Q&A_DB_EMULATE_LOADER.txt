@@ -1,0 +1,23 @@
+# Question : "What is the status of my moving request?"
+## Answer : "The current status is showing IN-PROGRESS and the truck is located at 36.168503, -86.054505 and is in route"
+
+# Question : "What date will the movers be at my house?"
+## Answer : "You should expect an arrival date of 1/28/24, Sunday at approximately 1:32 PM EST "
+
+# Question: "What services does NEI Global Relocation offer?"
+## Answer: "NEI Global Relocation offers comprehensive global mobility support, including full-service relocation management, digital solutions, and personalized services to assist with corporate employee relocations."
+
+# Question: "How can I contact NEI Global Relocation?"
+## Answer: "You can contact NEI Global Relocation by filling out the contact form on our website or by calling our headquarters at +1 402 397 8486. We also have regional offices in Geneva, Switzerland, and Singapore."
+
+# Question: "What are the benefits of choosing NEI Global Relocation?"
+## Answer: "Choosing NEI Global Relocation comes with several benefits. We are a recognized industry leader with top ratings for client satisfaction. Our team members are highly trained and equipped with the tools to provide efficient and stress-free relocation experiences. We also offer strategically designed technology to enhance your relocation program and provide personalized solutions to meet your unique business needs."
+
+# Question: "Can NEI Global Relocation assist with international relocations?"
+## Answer: "Yes, NEI Global Relocation provides comprehensive global mobility support, which includes assistance with international relocations. Our experienced team can help with the logistics, paperwork, and other aspects of moving internationally."
+
+# Question: "What is the privacy policy of NEI Global Relocation?"
+## Answer: "NEI Global Relocation takes privacy seriously. You can view our Privacy Policy on our website for detailed information about how we handle and protect your personal data."
+
+# Question: "How can I explore new providers for relocation services?"
+## Answer: "If you are new to relocation and want to explore different providers, you can schedule a call with NEI Global Relocation. Our experts can discuss your needs, provide information about our services, and help you determine if we are the right fit for your relocation requirements."
